@@ -5,4 +5,4 @@ Este codigo te genera una tabla de horarios con hipervinculos que puede ser agre
 
 http://prntscr.com/e1r56o
 
-Gracias!
+Saludos!
